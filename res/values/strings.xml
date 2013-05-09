@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--  App strings -->
+    <string name="app_name">SkyrimBrewmaster</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_effect">Create a New Effect</string>
+    <string name="title_activity_display_message">SkyrimBrewmaster</string>
+    
+    <!-- Ingredient Form strings -->
+    <string name="new_ingredient">Create a New Ingredient</string>
+    <string name="create_ingredient_title">Create Ingredient</string>
+    <string name="ingredient_name">Ingredient Name</string>
+    
+    
+    <!-- Effect form strings -->
+    <string name="create_effect_title">Create Effect</string>
+    <string name="effect_name">Effect Name</string>
+    <string name="base_cost">Base Cost</string>
+    <string name="base_mag">Base Magnitude</string>
+    <string name="base_dur">Base Duration</string>
+    
+    <!-- Shared by Ingredient and Effects -->
+    <string name="value">Value</string>
+    <string name="skyrim_code">Skyrim Item Code</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    
+
+</resources>
